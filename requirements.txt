@@ -47,7 +47,7 @@ pathspec==0.9.0
 pathtools==0.1.2
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==9.2.0
+Pillow==10.3.0
 platformdirs==2.5.2
 promise==2.3
 prompt-toolkit==3.0.30
